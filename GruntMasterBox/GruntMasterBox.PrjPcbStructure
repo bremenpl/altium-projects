@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=analog.SchDoc
+Record=TopLevelDocument|FileName=GrunMasterBox.SchDoc
+Record=SheetSymbol|SourceDocument=GrunMasterBox.SchDoc|Designator=ANALOG|SchDesignator=ANALOG|FileName=analog.SchDoc|SymbolType=Normal|RawFileName=analog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GrunMasterBox.SchDoc|Designator=DDS|SchDesignator=DDS|FileName=DDS.SchDoc|SymbolType=Normal|RawFileName=DDS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GrunMasterBox.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GrunMasterBox.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GrunMasterBox.SchDoc|Designator=REFVOL|SchDesignator=REFVOL|FileName=RefVoltages.SchDoc|SymbolType=Normal|RawFileName=RefVoltages.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GrunMasterBox.SchDoc|Designator=USB2UART|SchDesignator=USB2UART|FileName=usb2uart.SchDoc|SymbolType=Normal|RawFileName=usb2uart.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
