@@ -276,6 +276,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Parameter1]
+Name=ver
+Value=1.0
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
