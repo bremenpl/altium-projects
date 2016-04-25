@@ -276,6 +276,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GruntMasterBox\Design Rule Check - GrunMasterBox.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ver
 Value=1.0
